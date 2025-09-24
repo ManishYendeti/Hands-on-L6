@@ -29,7 +29,7 @@ The data is generated via `datagen.py` and includes two CSVs:
 
 ## Repository Layout
 ```
-hands_on_6/
+hands_on_L6/
 │  datagen.py                # Script to generate the input CSV files  
 │  main.py                   # Spark Structured API processing  
 │  inputs/                   # Directory for input CSVs  
